@@ -3,3 +3,4 @@ GITの練習
 .git commit
 .git
 テスト
+.git rem
