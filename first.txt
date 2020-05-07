@@ -5,3 +5,4 @@ GITの練習
 テスト
 .git rem
 .git status
+.git diff
